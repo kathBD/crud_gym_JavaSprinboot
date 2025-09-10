@@ -17,11 +17,12 @@ Sistema de gestión de usuarios gimnasio
 
 ## Peticiones HTTP
 
-  - Get listar usuarios
+ - Get listar usuarios
 
   ```
   localhost:8080/usuarios
   
+  ```
 
   - Get listar usuarios por rol
 
