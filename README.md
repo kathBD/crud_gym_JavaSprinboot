@@ -25,8 +25,10 @@ Sistema de gestión de usuarios gimnasio
   
 
   - Get listar usuarios por rol
+
   ```
-  http://localhost:8080/api/usuarios/rol/{nombreRol}
+
+  localhost:8080/api/usuarios/rol/{nombreRol}
 
   ```
   
