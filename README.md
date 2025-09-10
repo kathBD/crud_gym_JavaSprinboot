@@ -1,8 +1,7 @@
 # sistema_usuarios_gym
 Sistema de gestión de usuarios gimnasio 
 
-# Sobre proyecto
--Apirest en Spring Boot usuarios 
+
 
 <h1 align="center">Spring Boot API RESTful</h1>
 
